@@ -1,0 +1,19 @@
+services:
+
+    python:
+
+        build:
+            context: .
+            dockerfile: Dockerfile
+
+        container_name: python_container
+
+        hostname: python
+
+        stdin_open: true
+        tty: true
+
+        volumes:
+            -   type: bind
+                source: .
+                target: /home/workspace/
