@@ -1,0 +1,5 @@
+# pip install --requirement requirements.txt
+# https://pypi.org/
+
+pylint
+autopep8
