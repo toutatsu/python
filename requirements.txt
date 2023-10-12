@@ -3,3 +3,41 @@
 
 pylint
 autopep8
+
+rich
+
+# setuptools
+# wheel
+# typing-extensions
+# cryptography
+
+# pytest
+
+# requests
+# urllib3
+# beautifulsoup
+# selenium
+
+# matplotlib
+# seaborn
+# plotly
+# manimgl
+
+# numpy
+# scipy
+# scikit-learn
+# pandas
+
+# lightgbm
+
+# torch
+# transformers
+
+# opencv-python
+# pillow
+
+# nltk
+# gensim
+# spacy
+
+# librosa
