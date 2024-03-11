@@ -13,9 +13,17 @@ rich
 
 # pytest
 
+# jupyter
+# ipykernel
+# ipywidgets
+# nbconvert
+
+# tqdm
+
 # requests
 # urllib3
 # beautifulsoup
+# webdriver_manager
 # selenium
 
 # matplotlib
@@ -31,13 +39,25 @@ rich
 # lightgbm
 
 # torch
+# torchvision
+
 # transformers
+
 
 # opencv-python
 # pillow
+# piexif
 
 # nltk
 # gensim
 # spacy
+# allennlp
 
 # librosa
+
+# gradio
+# streamlit
+
+# networkx
+
+# gurobi
